@@ -1,4 +1,4 @@
-# URLSessionSync
+# URLSessionSync (a.k.a. URLSession+Sync)
 
 ## Installation
 
