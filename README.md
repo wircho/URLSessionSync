@@ -2,7 +2,7 @@
 
 ## Installation
 
-On Xcode go to **File > Swift Packages > Add Package Dependencies** and enter this repository's URL.
+On Xcode go to **File > Swift Packages > Add Package Dependencies** and enter this repository's URL. Select the `master` branch for the latest stable version.
 
 ## Usage
 
